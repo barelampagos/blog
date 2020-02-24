@@ -13,6 +13,8 @@ formattedTitle = title.lower()
 formattedTitle = formattedTitle.replace(" ", "-")
 formattedTitle = formattedTitle.replace("!", "")
 formattedTitle = formattedTitle.replace(",", "")
+formattedTitle = formattedTitle.replace(":", "")
+
 
 print ('Creating post template for ' + title + '...')
 
