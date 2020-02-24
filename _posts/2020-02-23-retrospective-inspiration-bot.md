@@ -11,7 +11,7 @@ Today, I'll be talking about the Inspiration Bot - a Twitter Bot that posts insp
 - [Github](https://github.com/barelampagos/InspirationBot)
 - [Twitter - @inspirationqtz](https://twitter.com/inspirationqtz)
 
-![inspirationbot](/images/inspiration-bot.JPG)
+![inspirationbot]({{ site.baseurl }}/images/inspiration-bot.JPG)
 
 ## Inspiration 
 
