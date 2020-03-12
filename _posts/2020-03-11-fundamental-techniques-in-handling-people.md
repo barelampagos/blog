@@ -38,4 +38,4 @@ As I continue on reading through this book, I'll continue to update with additio
 - Try to think always in terms of other people's point of view, and see things from their angle.
 - Looking at one's POV and arousing an eager want for something is NOT to be construed as manipulating that person so that he will do something that is only for your benefit and his detriment.
   - Each party should gain from the negotiation.
-- "First, arouse in the other person an eager want. He who can do this has thewhole world with him. He who cannot walks a lonely way" - Harry A. Overstreet
+- "First, arouse in the other person an eager want. He who can do this has the whole world with him. He who cannot walks a lonely way" - Harry A. Overstreet
