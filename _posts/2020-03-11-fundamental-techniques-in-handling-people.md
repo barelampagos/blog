@@ -9,9 +9,9 @@ As I continue on reading through this book, I'll continue to update with additio
 
 ---
 
-# Part 1: FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE
+## Part 1: FUNDAMENTAL TECHNIQUES IN HANDLING PEOPLE
 
-## Principle 1: Don't criticize, condemn, or complain.
+# Principle 1: Don't criticize, condemn, or complain.
 
 - People don't criticize themselves for anything, no matter how wrong it may be.
 - Criticism is futile; it puts a person on the defensive and usually makes them strive to justify them self.
@@ -19,7 +19,7 @@ As I continue on reading through this book, I'll continue to update with additio
 - The person we correct/condemn will probably justify them self, and condemn us in return.
 - Any fool can criticize, condemn and complain - and most fools do. It takes character and self-control to be understanding and forgiving.
 
-## Principle 2: Give honest and sincere appreciation.
+# Principle 2: Give honest and sincere appreciation.
 
 - The deepest urge in human nature is "the desire to be important".
 - The way to develop the best that is in a person is by appreciation and encouragement.
@@ -31,7 +31,7 @@ As I continue on reading through this book, I'll continue to update with additio
   - "Flattery is telling the other person precisely what he thinks about himself."
 - Figure out a person's good points, forget flattery, and give honest, sincere appreciation.
 
-## Principle 3: Arouse in the other person an eager want.
+# Principle 3: Arouse in the other person an eager want.
 
 - "If there is any one secret of success, it lies in the ability to get the other person's point of view and see things from that person's angle as well as from your own" - Henry Ford
 - If salespeople can show us how their services or merchandise will help us solve our problems, they won't need to sell us. We'll buy. And customers like to feel that they are buying - not being sold.
