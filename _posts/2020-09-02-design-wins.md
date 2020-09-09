@@ -11,15 +11,15 @@ Recently, my company (Infor Nexus) hosted a small contest for photos to be selec
 
 ![Lake Tahoe Background]({{ site.baseurl }}/images/tahoe_infor_bg.jpg)
 
-![Croatia Background]({{ site.baseurl }}/images/croatia_infor_bg.jpg)
+![Croatia Background]({{ site.baseurl }}/images/croatia_infor_bg.png)
 
-![Hawaii Background]({{ site.baseurl }}/images/hawaii_infor_bg.jpg)
+![Hawaii Background]({{ site.baseurl }}/images/hawaii_infor_bg.png)
 
-![Japan Background]({{ site.baseurl }}/images/japan_infor_bg.jpg)
+![Japan Background]({{ site.baseurl }}/images/japan_infor_bg.png)
 
-![New York Background]({{ site.baseurl }}/images/ny_infor_bg.jpg)
+![New York Background]({{ site.baseurl }}/images/ny_infor_bg.png)
 
-![NYC Background]({{ site.baseurl }}/images/nyc_infor_bg.jpg)
+![NYC Background]({{ site.baseurl }}/images/nyc_infor_bg.png)
 
 Feels great to be able to leave my mark on our application in a creative way. 😁
 
