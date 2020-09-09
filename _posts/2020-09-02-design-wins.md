@@ -7,9 +7,19 @@ When I need a break from software, I like to do photography and graphic design. 
 
 ## Application Login Photo
 
-Recently, my company (Infor Nexus) hosted a small contest for photos to be selected for the application login page, and one of mine made it through! Here's a shot of that now:
+Recently, my company (Infor Nexus) hosted a small contest for photos to be selected for the application login page, and a few of mine made it through! Here's a few shots of that now:
 
 ![Lake Tahoe Background]({{ site.baseurl }}/images/tahoe_infor_bg.jpg)
+
+![Croatia Background]({{ site.baseurl }}/images/croatia_infor_bg.jpg)
+
+![Hawaii Background]({{ site.baseurl }}/images/hawaii_infor_bg.jpg)
+
+![Japan Background]({{ site.baseurl }}/images/japan_infor_bg.jpg)
+
+![New York Background]({{ site.baseurl }}/images/ny_infor_bg.jpg)
+
+![NYC Background]({{ site.baseurl }}/images/nyc_infor_bg.jpg)
 
 Feels great to be able to leave my mark on our application in a creative way. 😁
 
