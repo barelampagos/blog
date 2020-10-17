@@ -44,3 +44,5 @@ Functionally, ClockyR retains the same feature set, though I've added a few feat
 - All TODOs (even for unregistered users) are stored in local storage, so upon returning to this page, one can resume their tasks
 - Added a 'X' button to remove TODOs that are no longer valid
 - Added a few more photos for use in the background from my more recent trips
+
+Also, due to the structure of this application, this was one of the first I've worked on that required a bit more work for deployment. I've hosted this application on Heroku, and luckily they make it super simple to deploy.
