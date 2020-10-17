@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Retrospective: Side Projects (Lo-Fi Radio, Birthday Bot)'
+tags: [retrospective]
 ---
 
 SIP continues to this day (8/17/20), and so I've been trying to take this opportunity as a time to continue developing my software skills. I've recently been trying to level up new technical coding skills (Javascript, React, Node), as well as basic deployment with Heroku.

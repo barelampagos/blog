@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 'Retrospective: On One Studios Site'
+tags: [retrospective]
 ---
 
 Back in highschool, I spent a lot of my free time participating in urban dance in various ways. Team Sarap (FSA) was my first dance team, and from there my excitement and hunger for becoming a better dancer began. I took various workshops throughout the bay area, but one workshop series that always stood out to me was the Monday Night Workshop. MNW was a smaller scale, grassroots-like urban dance space that brought out some of the bigger names in the community at the time. They really distinguished themselves for me by establishing a friendly, inviting vibe, and I felt more comfortable going to take class there vs. the bigger, more established dance studios with their "master classes".
